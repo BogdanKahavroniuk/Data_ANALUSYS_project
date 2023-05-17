@@ -1,0 +1,5 @@
+```{r}
+data <- load_csv("Data/covid.cs")
+
+```
+
